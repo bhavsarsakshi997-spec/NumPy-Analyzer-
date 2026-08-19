@@ -263,9 +263,10 @@ The following array operations are implemented in the project:
 4. It provides many built-in mathematical and statistical functions.
 5. It is useful for numerical calculations.
 
-1. Input image :-
+1. Input image :- <img width="676" height="752" alt="image" src="https://github.com/user-attachments/assets/f50c2f4d-7991-432b-b291-74db31d243e8" />
 
-2. Output image :-
+2. Output image :- <img width="387" height="272" alt="image" src="https://github.com/user-attachments/assets/5108587c-cfaf-448b-8859-ef240d2ea1d7" />
+
 
 3. Video Link :-
 
