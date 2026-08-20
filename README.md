@@ -267,8 +267,7 @@ The following array operations are implemented in the project:
 
 2. Output image :- <img width="387" height="272" alt="image" src="https://github.com/user-attachments/assets/5108587c-cfaf-448b-8859-ef240d2ea1d7" />
 
-
-3. Video Link :-
+3. Video Link :- https://drive.google.com/file/d/1mWUizsaHjASKcK6O_q3VBUUJjS9uxgIq/view?usp=drive_link
 
 9. Advantages of This Project
 1. It is menu-driven and user-friendly.
